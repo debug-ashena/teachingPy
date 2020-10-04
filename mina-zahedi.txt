@@ -1,0 +1,7 @@
+سلام استاد خسته نباشید ، مینا زاهدی هستم مراحل کار من توی گیت هاب :
+1. پروژه رو clone کردم 
+2 . روی سیستمم یه فایل تکست ساختم به نام mina-zahedi.txt
+و دستورات زیر رو اجرا کردم :
+1. git add mina-zahedi.txt 
+2. git commit -m "add file mina-zahedi"
+3. git push origin master 
